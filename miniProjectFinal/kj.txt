@@ -1,0 +1,22 @@
+********ANS AUTOMOBILES PVT LTD***************
+Bill no : 214555		Date : 2023-08-14
+-------------------------------------------
+Name 		  : 	kj
+Date 		  : 	777
+NIC Number 		   : 	444
+Phone Number	  :	5555
+Address 	  : 	null
+Car Details 	  : 	788
+Email 		   : 	pppp
+--------------------------------------------
+
+Service 	 	Charge
+------------------------------------------
+
+wash		        2000
+
+
+ddd		        10000
+
+			-------------
+Total			12000.0

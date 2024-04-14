@@ -1,0 +1,31 @@
+
+------------ANS AUTOMOBILES PVT LTD-------------
+------------------------------------------------
+Bill no : 2550		Date : 2023-08-17
+------------------------------------------------
+Name 		  : 		Ravindu
+Date 		  : 		25/08/2023
+NIC Number 	  : 		200145859654
+Phone Number  :  		0745123685
+Address	 	  : 		GALLE
+Car Details	  : 		volvoG45
+Email 		  : 		ravindu34@gmail.com
+------------------------------------------------
+
+Service					Charge
+------------------------------------------------
+Complete Engine Overhaul
+				   		40000.0
+
+Cleaning and Waxing
+				   		4000.0
+
+Car Wrapping
+				   		2000.0
+
+
+					-----------------------
+SubTotal				46000.0
+Discount				4600.0
+Total					41400.0
+------------------------------------------------

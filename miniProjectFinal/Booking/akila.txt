@@ -1,0 +1,31 @@
+
+------------ANS AUTOMOBILES PVT LTD-------------
+------------------------------------------------
+Bill no : 2550		Date : 2023-08-17
+------------------------------------------------
+Name 		  : 		akila
+Date 		  : 		eeeeeeee
+NIC Number 	  : 		eeeeeeeeeee
+Phone Number  :  		eeeeeeeee
+Address	 	  : 		eeeeeeeeee
+Car Details	  : 		eeeeeeeee
+Email 		  : 		eeeeeeee
+------------------------------------------------
+
+Service					Charge
+------------------------------------------------
+Basic wash
+				   		1500.0
+
+Deluxe wash
+				   		2500.0
+
+Premium wash
+				   		3000.0
+
+
+					-----------------------
+SubTotal				7000.0
+Discount				175.0
+Total					6825.0
+------------------------------------------------

@@ -1,0 +1,22 @@
+********ANS AUTOMOBILES PVT LTD***************
+Bill no : 214555		Date : 2023-08-16
+-------------------------------------------
+Name 		  : 	dina
+Date 		  : 	14/08/2023
+NIC Number 		   : 	200145698745
+Phone Number	  :	074569552212
+Address 	  : 	null
+Car Details 	  : 	no car
+Email 		   : 	mail@gmail.com
+--------------------------------------------
+
+Service 	 	Charge
+------------------------------------------
+
+paint		        2000
+
+
+tinkering		        40000
+
+			-------------
+Total			42000.0

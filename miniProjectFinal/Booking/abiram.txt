@@ -1,0 +1,28 @@
+
+------------ANS AUTOMOBILES PVT LTD-------------
+------------------------------------------------
+Bill no : 2550		Date : 2023-08-17
+------------------------------------------------
+Name 		  : 		abiram
+Date 		  : 		aaaaaaa
+NIC Number 	  : 		aaaaaaaa
+Phone Number  :  		aaaaaaaaaa
+Address	 	  : 		aaaaaaaa
+Car Details	  : 		aaaaaaaaaa
+Email 		  : 		aaaaaa
+------------------------------------------------
+
+Service					Charge
+------------------------------------------------
+Interior Detail
+				   		5000.0
+
+Disk Facing Repairs
+				   		15000.0
+
+
+					-----------------------
+SubTotal				20000.0
+Discount				1500.0
+Total					18500.0
+------------------------------------------------

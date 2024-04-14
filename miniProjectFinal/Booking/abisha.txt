@@ -1,0 +1,28 @@
+
+------------ANS AUTOMOBILES PVT LTD-------------
+------------------------------------------------
+Bill no : 2550		Date : 2023-08-17
+------------------------------------------------
+Name 		  : 		abisha
+Date 		  : 		aaaaaaaa
+NIC Number 	  : 		aaaaaa
+Phone Number  :  		aaaaaa
+Address	 	  : 		aaaaaaa
+Car Details	  : 		aaaaaaa
+Email 		  : 		aaaaaaa
+------------------------------------------------
+
+Service					Charge
+------------------------------------------------
+Disk Facing Repairs
+				   		15000.0
+
+LED Upgrade
+				   		85000.0
+
+
+					-----------------------
+SubTotal				100000.0
+Discount				15000.0
+Total					85000.0
+------------------------------------------------
